@@ -1,4 +1,4 @@
-### Olá, meu nome é Victor, sou desenvolvedor com foco em desenvolvimento Web e Responsividade
+### Olá, meu nome é Victor, sou desenvolvedor focado em Web e Responsividade
 
 <div align="center">
   <a href="https://github.com/victor-hsl">
