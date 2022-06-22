@@ -1,4 +1,4 @@
-### Olá, meu nome é Victor, sou desenvolvedor focado em Web e Responsividade
+### Hi! My name is Victor, i'm FrontEnd Dev with focus on responsive web aplications
 
 <div align="center">
   <a href="https://github.com/victor-hsl">
